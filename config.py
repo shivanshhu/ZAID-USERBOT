@@ -12,7 +12,7 @@ ALIVE_TEXT = getenv("ALIVE_TEXT")
 PM_LOGGER = getenv("PM_LOGGER")
 LOG_GROUP = getenv("LOG_GROUP", "-1001834567357")
 GIT_TOKEN = getenv("GIT_TOKEN") #personal access token
-REPO_URL = getenv("REPO_URL", "https://github.com/TheChampu")
+REPO_URL = getenv("REPO_URL", "https://github.com/ITZ-ZAID/ZAID-USERBOT")
 BRANCH = getenv("BRANCH", "master") #don't change
  
 STRING_SESSION1 = getenv("STRING_SESSION1", "AQCgDSzan-jsYwe-GuDyLhloI48ux6qPIKsxC801y_qRkSizNpsuVsARdMBsH5ishmOBqLegRvI9WG_8YR9VpIS7_T0F3MXVTTnYaQ_6tbDYzfBqfIEIHSmggBO3lShuNPukIgGYpD0_E8Xfk2yPH3Hp2AqzJizIZF7ZGcfjKipMIuXsKnKcVTUCofudnfg5ksKoA5JATzYjkWrZ2I3-SuDqRFOWdkzq8mnYdjdnsG9GDzqwreEsnN4HZCd9H0dnSCdw_hgjgzeqnF7ObybJs06_thHG-BDzBfqRA3YxxgyY7bEI4WXb_GXwMxU0u0W88TwtqHz-3pByoce08tVPCnYuAAAAAV9Rd9QA")
